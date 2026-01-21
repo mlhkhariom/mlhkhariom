@@ -1,18 +1,27 @@
-<!-- 3D Hero Section -->
+<!-- Neon Divider -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+</p>
+
+<!-- 3D Avatar -->
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/0?v=4" width="140" style="border-radius:50%; backdrop-filter: blur(10px); box-shadow: 0 0 40px rgba(0,255,255,.35);" />
 </p>
 
 <h1 align="center">
-  🚀 Hariom Vishwkarma
+  <span style="letter-spacing:1px;">Hariom Vishwkarma</span>
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=22&pause=900&color=00E5FF&center=true&vCenter=true&width=1000&lines=Founder+%26+CEO+%40+MLHK+Infotech;Enterprise+Architect+%7C+AI+Automation+Engineer;Android+%7C+Web+%7C+CRM+%7C+ERP+%7C+SaaS;Any+Language+%7C+Any+Database+%7C+Any+UI;I+Build+Complete+Digital+Ecosystems" />
+  <sub>
+    <b>MLHK</b> — Founder & CEO @ MLHK Infotech<br/>
+    Enterprise Architect • AI Automation Engineer • Full-Stack System Builder
+  </sub>
 </p>
 
+<!-- Typing Effect -->
 <p align="center">
-  <sub><b>System Builder • UI Thinker • Automation Mindset</b></sub>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=20&pause=800&color=00F5FF&center=true&vCenter=true&width=1000&lines=Designing+Systems%2C+Not+Just+Screens;Glassmorphism+%7C+Neon+%7C+3D+UI+Thinker;Android+%7C+Web+%7C+CRM+%7C+ERP+%7C+SaaS;AI+Automation+%26+Enterprise+Scale+Execution;Real+Products.+Real+Users.+Real+Scale." />
 </p>
 
 <p align="center">
@@ -29,85 +38,83 @@
 
 ---
 
-## 🧠 Identity (Design + Power)
+## 🧠 Real Identity (Experience > Claims)
 
 I’m **Hariom Vishwkarma**, known as **MLHK**.  
-I don’t work in **one stack, one style, or one mindset**.
+I work where **design, systems, automation, and business meet**.
 
-I design **systems**, not just screens.
+I don’t chase trends —  
+I **design experiences that scale**.
 
 - 🚀 Founder & CEO — **MLHK Infotech**
-- 🏗 Enterprise / System Architect
+- 🏗 Enterprise System Architect
 - 🤖 AI Automation Engineer
-- 🧩 CRM • ERP • SaaS Specialist
-- 🎨 Multi-Style UI/UX (Minimal → 3D → Glass)
+- 🧩 CRM / ERP / SaaS Builder
+- 🎨 UI/UX Thinker (Glass • Neon • 3D • Minimal)
 - 🧠 Cyber & IT Professional
 
-> I turn ideas into **working, scalable, beautiful systems**.
+> Every product I build is **usable, scalable, and visually intentional**.
 
 ---
 
-## 🏢 MLHK Infotech — What We Build
+## 🏢 MLHK Infotech — Real-World Work
 
-### 📱 Mobile
-- Android Apps (Business → Enterprise)
-- Secure API-Driven Apps
-- Admin Panels & Analytics
+### 📱 Mobile Experience
+- Android Apps used by real businesses
+- Secure API-based architecture
+- Admin panels with analytics
 
-### 🌐 Web & SaaS
-- High-End Websites
-- SaaS Platforms
-- Dashboards & Portals
-- High-Traffic Systems
+### 🌐 Web & SaaS Experience
+- Business & enterprise web platforms
+- SaaS dashboards (role-based)
+- Performance-focused UI
 
-### 🧠 Enterprise
-- CRM Systems
-- ERP Systems
-- HRMS, Billing, Inventory
-- Workflow Automation
+### 🧠 Enterprise Systems
+- CRM used by teams
+- ERP for operations
+- HRMS, billing, inventory
+- Workflow automation
 
 ### 🤖 AI & Automation
-- AI-Based Automation
-- Process Bots
-- Smart Dashboards
-- Data Pipelines
+- AI-driven admin flows
+- Automation bots
+- Data pipelines
+- Smart dashboards
 
-### 🎨 UI / UX (Visible Strength)
-- Minimal UI
-- Modern UI
-- Corporate UI
-- Dark / Neon
-- Glassmorphism
-- **3D-Inspired Interfaces**
-- Custom Design Systems (No Templates)
+### 🎨 UI / UX (Visible DNA)
+- Glassmorphism layouts
+- Neon accent systems
+- 3D-inspired components
+- Motion-first micro-interactions
+- Design systems (not templates)
 
 ---
 
-## 🛠 Tech Universe (No Limits)
+## 🛠 Tech Stack (Production-Grade)
 
-### Languages
+**Languages**  
 Java • Python • JavaScript • PHP • SQL • Shell
 
-### Frontend
+**Frontend**  
 HTML • CSS • Tailwind • Bootstrap • React  
-Animations • Micro-interactions • Design Systems
+Animations • UI Motion • Design Tokens
 
-### Backend
+**Backend**  
 Laravel • Node.js • Flask  
-REST APIs • Auth • RBAC • Secure Systems
+REST APIs • Auth • RBAC • Secure Architecture
 
-### Mobile
+**Mobile**  
 Android (Java) • Scalable Architecture
 
-### Databases
+**Databases**  
 MySQL • PostgreSQL • MongoDB • Firebase • SQLite  
-Design • Optimization • Large Data
+Design • Optimization • High-volume data
 
-### AI / Data
+**AI / Data**  
 NumPy • Pandas • Scikit-learn • Keras  
 AI Automation • Analytics • BI
 
-### DevOps
+**DevOps**  
 Docker • Linux • Git • GitHub • CI/CD • Cloud
 
 <p align="center">
@@ -116,14 +123,14 @@ Docker • Linux • Git • GitHub • CI/CD • Cloud
 
 ---
 
-## 🎯 Why This Profile Feels Different
+## 🎯 Why This Feels “Different”
 
-✔ UI thinking is **visible**  
-✔ 3D / motion / structure feel  
-✔ Not tool-dependent  
-✔ Enterprise mindset  
-✔ AI + Automation ready  
-✔ Founder who understands **business + execution**
+- UI/UX **visible**, not just written
+- Glass + Neon + 3D **design thinking**
+- Experience-based language
+- Enterprise mindset
+- AI & automation baked in
+- Founder who understands **users + systems + business**
 
 ---
 
@@ -139,22 +146,22 @@ Docker • Linux • Git • GitHub • CI/CD • Cloud
 </details>
 
 <details>
-  <summary><b>⚡ Activity Graph</b></summary>
+  <summary><b>⚡ Contribution Flow</b></summary>
   <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mlhkhariom&theme=react-dark&hide_border=true"/>
 </details>
 
 ---
 
-## 🤝 Let’s Build
+## 🤝 Let’s Build Real Things
 
-If you need:
-- AI Automation
-- Any Language / Any Database
-- Any UI / Any Design
-- Enterprise Systems
-- Android / Web / CRM / ERP
+If you want:
+- AI automation with real ROI
+- Any language / any database
+- Premium UI / UX (modern, not fake)
+- Enterprise-grade systems
+- Long-term tech partner
 
-**MLHK Infotech delivers.**
+**MLHK Infotech is ready.**
 
-> *“Tools change. Systems last.”*
+> *“Good UI attracts. Great systems retain.”*
