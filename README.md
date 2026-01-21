@@ -1,170 +1,136 @@
+<!-- 3D Hero Section -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
+</p>
+
 <h1 align="center">
   🚀 Hariom Vishwkarma
 </h1>
 
 <p align="center">
-  <b>MLHK</b> — Founder & CEO @ MLHK Infotech<br/>
-  Enterprise Architect • AI Automation Engineer • Full-Stack System Builder
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=22&pause=900&color=00E5FF&center=true&vCenter=true&width=1000&lines=Founder+%26+CEO+%40+MLHK+Infotech;Enterprise+Architect+%7C+AI+Automation+Engineer;Android+%7C+Web+%7C+CRM+%7C+ERP+%7C+SaaS;Any+Language+%7C+Any+Database+%7C+Any+UI;I+Build+Complete+Digital+Ecosystems" />
 </p>
 
 <p align="center">
-  Android • Web • AI • Automation • CRM • ERP • SaaS • Databases • UI/UX
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=1100&lines=Building+AI-Powered+Enterprise+Systems;Any+Language+Any+Database+Any+UI;Android+%7C+Web+%7C+CRM+%7C+ERP+%7C+SaaS;Founder+of+MLHK+Infotech;From+Idea+to+AI-Driven+Production+Scale" />
+  <sub><b>System Builder • UI Thinker • Automation Mindset</b></sub>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mlhkhariom/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://stackoverflow.com/users/22607710/hariom-vishwkarma">
-    <img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
+    <img src="https://img.shields.io/badge/StackOverflow-F58025?style=flat&logo=stackoverflow&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/mlhkhariom">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 🧠 Who I Am (No Limits)
+## 🧠 Identity (Design + Power)
 
 I’m **Hariom Vishwkarma**, known as **MLHK**.  
-I don’t lock myself to **one language, one framework, or one design style**.
+I don’t work in **one stack, one style, or one mindset**.
 
-I build **COMPLETE DIGITAL ECOSYSTEMS**.
+I design **systems**, not just screens.
 
-- 🚀 Founder & CEO of **MLHK Infotech**
-- 🏗 Enterprise & System Architect
+- 🚀 Founder & CEO — **MLHK Infotech**
+- 🏗 Enterprise / System Architect
 - 🤖 AI Automation Engineer
-- 🧩 CRM / ERP / SaaS Specialist
-- 🎨 Multi-Style UI/UX Designer
+- 🧩 CRM • ERP • SaaS Specialist
+- 🎨 Multi-Style UI/UX (Minimal → 3D → Glass)
 - 🧠 Cyber & IT Professional
-- 🎵 Independent Music Artist
 
-If it’s **digital**, I can design it, build it, automate it, and scale it.
+> I turn ideas into **working, scalable, beautiful systems**.
 
 ---
 
-## 🏢 MLHK Infotech — What We Deliver
+## 🏢 MLHK Infotech — What We Build
 
-### 📱 Mobile Systems
-- Android Applications (Small → Enterprise Scale)
-- Business Apps & Admin Panels
-- API & Cloud-Connected Apps
+### 📱 Mobile
+- Android Apps (Business → Enterprise)
+- Secure API-Driven Apps
+- Admin Panels & Analytics
 
-### 🌐 Web & SaaS Platforms
-- Business Websites
-- SaaS Products
+### 🌐 Web & SaaS
+- High-End Websites
+- SaaS Platforms
 - Dashboards & Portals
 - High-Traffic Systems
 
-### 🧠 Enterprise Solutions
+### 🧠 Enterprise
 - CRM Systems
 - ERP Systems
 - HRMS, Billing, Inventory
-- Workflow & Approval Systems
+- Workflow Automation
 
 ### 🤖 AI & Automation
 - AI-Based Automation
-- Process Automation
-- Data Automation Pipelines
+- Process Bots
 - Smart Dashboards
-- Intelligent Admin Systems
+- Data Pipelines
 
-### 🎨 UI / UX (All Styles)
-- Minimal
-- Modern
-- Corporate
+### 🎨 UI / UX (Visible Strength)
+- Minimal UI
+- Modern UI
+- Corporate UI
 - Dark / Neon
 - Glassmorphism
-- 3D-style UI
-- Custom Brand UI (No Templates)
+- **3D-Inspired Interfaces**
+- Custom Design Systems (No Templates)
 
 ---
 
-## 🛠️ Tech Stack (NO BOUNDARIES)
+## 🛠 Tech Universe (No Limits)
 
-### 🔷 Programming Languages (All-Rounder)
-- Java
-- Python
-- JavaScript
-- PHP
-- SQL
-- Bash / Shell
+### Languages
+Java • Python • JavaScript • PHP • SQL • Shell
 
-### 🔷 Frontend (Any UI, Any Design)
-- HTML5, CSS3
-- Tailwind CSS
-- Bootstrap
-- React.js
-- UI Animation & Micro-interactions
-- Custom Design Systems
+### Frontend
+HTML • CSS • Tailwind • Bootstrap • React  
+Animations • Micro-interactions • Design Systems
 
-### 🔷 Backend & APIs
-- Laravel (Enterprise PHP)
-- Node.js
-- Flask
-- REST & Secure APIs
-- Auth, Roles & Permissions
+### Backend
+Laravel • Node.js • Flask  
+REST APIs • Auth • RBAC • Secure Systems
 
-### 🔷 Mobile
-- Android (Java)
-- Scalable App Architecture
+### Mobile
+Android (Java) • Scalable Architecture
 
-### 🔷 Databases (ALL TYPES)
-- MySQL
-- PostgreSQL
-- MongoDB
-- SQLite
-- Firebase
-- Database Design & Optimization
-- Large-Scale Data Handling
+### Databases
+MySQL • PostgreSQL • MongoDB • Firebase • SQLite  
+Design • Optimization • Large Data
 
-### 🔷 AI / Data / Intelligence
-- NumPy
-- Pandas
-- Scikit-learn
-- Keras
-- AI-based Automation
-- Analytics & BI Dashboards
+### AI / Data
+NumPy • Pandas • Scikit-learn • Keras  
+AI Automation • Analytics • BI
 
-### 🔷 DevOps & Infrastructure
-- Docker
-- Linux Servers
-- Git & GitHub
-- CI/CD Pipelines
-- Cloud Deployment
-
-### 🔷 Automation & Testing
-- Selenium
-- Web Automation
-- Task Scheduling
-- System Bots
+### DevOps
+Docker • Linux • Git • GitHub • CI/CD • Cloud
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,php,js,laravel,react,nodejs,html,css,tailwind,flask,mysql,postgres,mongodb,firebase,android,docker,linux,git,github" />
+  <img src="https://skillicons.dev/icons?i=java,python,php,js,laravel,react,nodejs,html,css,tailwind,flask,mysql,postgres,mongodb,firebase,android,docker,linux,git,github&theme=dark" />
 </p>
 
 ---
 
-## 🎯 Why People Choose MLHK
+## 🎯 Why This Profile Feels Different
 
-- Not language-dependent
-- Not design-limited
-- Not tool-restricted
-- Enterprise mindset
-- AI + Automation ready
-- Founder who understands **business + tech + execution**
+✔ UI thinking is **visible**  
+✔ 3D / motion / structure feel  
+✔ Not tool-dependent  
+✔ Enterprise mindset  
+✔ AI + Automation ready  
+✔ Founder who understands **business + execution**
 
 ---
 
-## 📊 Proof of Execution
+## 📊 Execution Proof
 
 <details>
-  <summary><b>📈 GitHub System Stats</b></summary>
+  <summary><b>📈 GitHub Stats</b></summary>
   <br/>
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=mlhkhariom&show_icons=true&theme=radical&hide_border=true" height="180"/>
@@ -173,24 +139,22 @@ If it’s **digital**, I can design it, build it, automate it, and scale it.
 </details>
 
 <details>
-  <summary><b>⚡ Execution Graph</b></summary>
+  <summary><b>⚡ Activity Graph</b></summary>
   <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mlhkhariom&theme=react-dark&hide_border=true"/>
 </details>
 
 ---
 
-## 🤝 Work With Me
+## 🤝 Let’s Build
 
 If you need:
 - AI Automation
 - Any Language / Any Database
 - Any UI / Any Design
-- Enterprise Web & SaaS
-- Android Apps
-- CRM / ERP Systems
-- Long-Term Tech Partner
+- Enterprise Systems
+- Android / Web / CRM / ERP
 
-**MLHK Infotech is your answer.**
+**MLHK Infotech delivers.**
 
-> *“I don’t limit myself to tools — I master systems.”*
+> *“Tools change. Systems last.”*
