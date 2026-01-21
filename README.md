@@ -1,15 +1,18 @@
 <h1 align="center">
-  <span style="font-size:42px;">🚀 Hariom Vishwkarma</span><br/>
-  <sub><b>MLHK</b> — Founder • Architect • Creator</sub>
+  🚀 Hariom Vishwkarma
 </h1>
 
 <p align="center">
-  <b>Founder & CEO @ MLHK Infotech</b><br/>
-  Android • Web • CRM • ERP • Automation • Cyber • Digital Products
+  <b>MLHK</b> — Founder & CEO @ MLHK Infotech<br/>
+  Enterprise Architect • AI Automation Engineer • Full-Stack System Builder
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+Complete+Digital+Ecosystems;Android+%7C+Web+%7C+CRM+%7C+ERP+Solutions;Founder+of+MLHK+Infotech;From+Idea+to+Production+Systems;Tech+%2B+Business+%2B+Execution" />
+  Android • Web • AI • Automation • CRM • ERP • SaaS • Databases • UI/UX
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=1100&lines=Building+AI-Powered+Enterprise+Systems;Any+Language+Any+Database+Any+UI;Android+%7C+Web+%7C+CRM+%7C+ERP+%7C+SaaS;Founder+of+MLHK+Infotech;From+Idea+to+AI-Driven+Production+Scale" />
 </p>
 
 <p align="center">
@@ -26,138 +29,142 @@
 
 ---
 
-## 🧠 Who Am I (Real Power)
+## 🧠 Who I Am (No Limits)
 
-I’m **Hariom Vishwkarma**, widely known as **MLHK**.  
-I don’t just write code — **I design systems, build companies, and ship real products.**
+I’m **Hariom Vishwkarma**, known as **MLHK**.  
+I don’t lock myself to **one language, one framework, or one design style**.
+
+I build **COMPLETE DIGITAL ECOSYSTEMS**.
 
 - 🚀 Founder & CEO of **MLHK Infotech**
-- 🏗 Full-Stack Architect (Web + Android + Backend)
-- 🧩 CRM / ERP / Business Automation Specialist
+- 🏗 Enterprise & System Architect
+- 🤖 AI Automation Engineer
+- 🧩 CRM / ERP / SaaS Specialist
+- 🎨 Multi-Style UI/UX Designer
 - 🧠 Cyber & IT Professional
-- 🎵 Independent Music Artist (Singer • Composer • Lyricist)
-- 🌍 India-based, global execution mindset
+- 🎵 Independent Music Artist
 
-If something needs to be built **from scratch to scale**, I do it.
+If it’s **digital**, I can design it, build it, automate it, and scale it.
 
 ---
 
-## 🏢 MLHK Infotech — What We Build
+## 🏢 MLHK Infotech — What We Deliver
 
-**End-to-End Digital Solutions**
+### 📱 Mobile Systems
+- Android Applications (Small → Enterprise Scale)
+- Business Apps & Admin Panels
+- API & Cloud-Connected Apps
 
-### 📱 Mobile
-- Android Applications (Java-based)
-- Business Apps
-- Admin Panels
-- API-based Apps
-
-### 🌐 Web
+### 🌐 Web & SaaS Platforms
 - Business Websites
-- SaaS Platforms
+- SaaS Products
 - Dashboards & Portals
-- E-Commerce Systems
+- High-Traffic Systems
 
-### 🧠 Enterprise Systems
-- CRM (Customer Relationship Management)
-- ERP (Enterprise Resource Planning)
-- Billing & Inventory Systems
-- Employee & Workflow Management
+### 🧠 Enterprise Solutions
+- CRM Systems
+- ERP Systems
+- HRMS, Billing, Inventory
+- Workflow & Approval Systems
 
-### ⚙️ Automation & IT
+### 🤖 AI & Automation
+- AI-Based Automation
 - Process Automation
-- Admin Systems
-- Data Dashboards
-- System Monitoring
+- Data Automation Pipelines
+- Smart Dashboards
+- Intelligent Admin Systems
 
-### 🔐 Cyber & Security
-- Secure System Design
-- Web Security Basics
-- Data Protection Practices
+### 🎨 UI / UX (All Styles)
+- Minimal
+- Modern
+- Corporate
+- Dark / Neon
+- Glassmorphism
+- 3D-style UI
+- Custom Brand UI (No Templates)
 
 ---
 
-## 🛠 Tech Arsenal (Ultra Expanded)
+## 🛠️ Tech Stack (NO BOUNDARIES)
 
-### 💻 Languages
+### 🔷 Programming Languages (All-Rounder)
 - Java
 - Python
 - JavaScript
+- PHP
 - SQL
+- Bash / Shell
 
-### 🌐 Frontend
-- HTML5
-- CSS3
-- Bootstrap
+### 🔷 Frontend (Any UI, Any Design)
+- HTML5, CSS3
 - Tailwind CSS
-- Responsive & Modern UI
+- Bootstrap
+- React.js
+- UI Animation & Micro-interactions
+- Custom Design Systems
 
-### 🧩 Backend
+### 🔷 Backend & APIs
+- Laravel (Enterprise PHP)
+- Node.js
 - Flask
-- REST APIs
-- Authentication Systems
-- Role-Based Access Control
+- REST & Secure APIs
+- Auth, Roles & Permissions
 
-### 📱 Mobile
+### 🔷 Mobile
 - Android (Java)
-- API Integration
-- Performance Optimization
+- Scalable App Architecture
 
-### 🧠 Data / ML
+### 🔷 Databases (ALL TYPES)
+- MySQL
+- PostgreSQL
+- MongoDB
+- SQLite
+- Firebase
+- Database Design & Optimization
+- Large-Scale Data Handling
+
+### 🔷 AI / Data / Intelligence
 - NumPy
 - Pandas
 - Scikit-learn
 - Keras
-- Streamlit
-- Plotly
+- AI-based Automation
+- Analytics & BI Dashboards
 
-### 🗄 Databases
-- MySQL
-- Database Architecture
-- Query Optimization
-
-### ⚙️ DevOps & Infra
-- Git & GitHub
+### 🔷 DevOps & Infrastructure
 - Docker
-- Linux
-- Heroku
-- CI/CD Basics
+- Linux Servers
+- Git & GitHub
+- CI/CD Pipelines
+- Cloud Deployment
 
-### 🤖 Automation
+### 🔷 Automation & Testing
 - Selenium
 - Web Automation
 - Task Scheduling
-
-### 👁 Computer Vision
-- OpenCV
-
-### 🎬 Creative
-- Video Editing
-- Audio Processing
-- Digital Content Creation
+- System Bots
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,tailwind,flask,mysql,android,docker,linux,git,github" />
+  <img src="https://skillicons.dev/icons?i=java,python,php,js,laravel,react,nodejs,html,css,tailwind,flask,mysql,postgres,mongodb,firebase,android,docker,linux,git,github" />
 </p>
 
 ---
 
-## 🎵 Creative Identity
+## 🎯 Why People Choose MLHK
 
-I balance **technology with creativity**.
-
-- 🎤 Singer
-- ✍️ Lyricist
-- 🎼 Composer
-
-Releasing original independent music while running a tech company.
+- Not language-dependent
+- Not design-limited
+- Not tool-restricted
+- Enterprise mindset
+- AI + Automation ready
+- Founder who understands **business + tech + execution**
 
 ---
 
-## 📊 Proof of Work
+## 📊 Proof of Execution
 
 <details>
-  <summary><b>📈 GitHub Performance</b></summary>
+  <summary><b>📈 GitHub System Stats</b></summary>
   <br/>
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=mlhkhariom&show_icons=true&theme=radical&hide_border=true" height="180"/>
@@ -166,9 +173,9 @@ Releasing original independent music while running a tech company.
 </details>
 
 <details>
-  <summary><b>⚡ System Activity</b></summary>
+  <summary><b>⚡ Execution Graph</b></summary>
   <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mlhkhariom&theme=redical&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mlhkhariom&theme=react-dark&hide_border=true"/>
 </details>
 
 ---
@@ -176,13 +183,14 @@ Releasing original independent music while running a tech company.
 ## 🤝 Work With Me
 
 If you need:
+- AI Automation
+- Any Language / Any Database
+- Any UI / Any Design
+- Enterprise Web & SaaS
 - Android Apps
-- Web Platforms
 - CRM / ERP Systems
-- Business Automation
-- Startup Tech Partner
-- Full Product Development
+- Long-Term Tech Partner
 
-**You’re in the right place.**
+**MLHK Infotech is your answer.**
 
-> *“I don’t follow trends — I build foundations.”*
+> *“I don’t limit myself to tools — I master systems.”*
